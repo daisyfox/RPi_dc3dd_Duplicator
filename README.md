@@ -3,9 +3,12 @@ Keywords/Resources we used: Raspberry Pi 2 Model B, Python 3.2 (using IDLE), Tki
 
 We've dabbled with programming our Raspberry Pi by making things flash and beep (ie things to play with).  This is the first 'utility' we've attempted.  Google was not always our friend, so after much frustration our treasure is being put here for safe keeping.
 
-We have a large number of files and (had) a need to copy various subsets of them for a number of other people.  We wanted a way of doing this which wouldn't be at risk from the fat fingered typist ie we wanted drop down boxes to make as many of the drive/directory selections as was possible.  At the time we didn't know we faced having to create our own but thats what we've ended up doing.  We're putting it here to keep it safe from the aforementioned fat fingered typist.  You're welcome to take it and make of it what you wish.  We're not sure whether we will do any further development since we used up all our 'need for duplication' on testing it to get this far (ooops!).
+We have a large number of files and (had) a need to copy various subsets of them for a number of other people.  We wanted a way of doing this which wouldn't be at risk from the fat fingered typist ie we wanted drop down boxes to make as many of the drive/directory selections as was possible.  At the time we didn't know we faced having to create our own but that's what we've ended up doing.  We're putting it here to keep it safe from the aforementioned fat fingered typist.  You're welcome to take it and make of it what you wish.  We're not sure whether we will do any further development since we used up all our 'need for duplication' on testing it to get this far (ooops!).
 
 As stated it has worked for us and accomplished what we wanted.  It will, however, show many signs of being by newbies, we have no idea how well or otherwise it will work in other setups - you have been warned.
+
+
+FILES LISTED IN THIS REPO:
 
 Duplicator.py contains the code
 dup_icon.png & Duplicator.desktop are used for the desktop item we created
