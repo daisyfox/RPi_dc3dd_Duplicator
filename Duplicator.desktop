@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=Duplicator
+Comment=Duplicate Files & Directories
+Exec=/home/pi/Duplicator/Duplicator.py
+Icon=/home/pi/Duplicator/dup_icon.png
+Path=/home/pi/
+Terminal=false
+Type=Application
+Categories=Application;
